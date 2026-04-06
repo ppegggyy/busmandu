@@ -2,8 +2,6 @@
 
 > A web-based application to help commuters navigate Kathmandu's public bus network with ease.
 
-![BusMandu Logo](Logo.png)
-
 ---
 
 ## 📌 Overview
