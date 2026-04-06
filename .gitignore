@@ -1,0 +1,18 @@
+# Database config — contains credentials, never commit this
+config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# PHP error files
+error_log
